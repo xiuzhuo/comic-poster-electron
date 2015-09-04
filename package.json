@@ -1,5 +1,8 @@
 {
   "name": "Comic-Poster",
+  "description": "Down, upload and post comics",
+  "repository": "https://github.com/xiuzhuo/comic-poster-electron",
+  "license": "GPL-3.0",
   "version": "0.1.0",
   "main": "main.js",
   "author": "Zhuo Xiu",
